@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+input[type="file"], button, select {
+    margin: 10px 0;
+}
+
+pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ccc;
+    white-space: pre-wrap; /* Allow line breaks */
+}
+
+.highlight {
+    background-color: yellow;
+}
